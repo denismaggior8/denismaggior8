@@ -9,13 +9,15 @@ My name is **Denis Maggiorotto** and I'm a Cloud/DevOps engineer, technology eva
 
 I'm from Italy 🇮🇹, living in a small town on the Turin hills (Chieri), I act as CEO and CTO of the company Sunnyvale S.r.l.
 
+Long time ago, I choosed to be a pirate instead of join the Navy...
+
 ### Social ###
 
 Follow me on:
 
 ![](https://img.shields.io/badge/denismaggiorotto-informational?style=&logo=LinkedIn)
-![](https://img.shields.io/badge/denismaggior8-informational?style=&logo=Twitter&&color=1DA1F2&logoColor=white)
-![](https://img.shields.io/badge/sunnyvaleit-informational?style=&logo=Twitter&color=1DA1F2&logoColor=white)
+![](https://img.shields.io/badge/@denismaggior8-informational?style=&logo=Twitter&&color=1DA1F2&logoColor=white)
+![](https://img.shields.io/badge/@sunnyvale__it-informational?style=&logo=Twitter&color=1DA1F2&logoColor=white)
 ![](https://img.shields.io/badge/Denis_Maggiorotto-informational?style=&logo=Strava&&color=orange&logoColor=white)
 ![](https://img.shields.io/badge/denismaggior8-informational?style=&logo=GitHub&&color=black&logoColor=white)
 
@@ -44,6 +46,13 @@ Main technologies and tools I work on/with:
 
 <img width="55%" align="right" height="55%" src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>
 
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
 ### Spare time
 
 How do I spend my free time between coding sessions?
@@ -62,4 +71,4 @@ I'm joking... Usually I:
 
 ---
 This page has been dynamically created using a GitHub Action ![build](https://img.shields.io/github/workflow/status/denismaggior8/denismaggior8/update)  
-Last update: ⚡Wed Sep  9 13:30:59 UTC 2020⚡
+Last update: ⚡Wed Sep  9 13:30:16 UTC 2020⚡
