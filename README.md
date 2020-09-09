@@ -58,12 +58,12 @@ How do I spend my free time between coding sessions?
 
 I'm joking... Usually I: 
 
+- 👩‍👧‍👦 spend time with my family  💖
 - 🚴‍♂️ go cycling 
 - ⛷️ enjoy skiing 
 - 🚶 walk on the hills near my home
 - 🎮 play videogames (of course) 
 - 📡 operate my amateur radio station (international callsign **IU1DKC**)
-- 👩‍👧‍👦 spend time with my family  💖
 - 🏠 automate my house with sensors and triggers
 
 ---
