@@ -45,6 +45,8 @@ Main technologies and tools I work on/with:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=denismaggior8)](https://github.com/anuraghazra/github-readme-stats))
 
+<img width="40%" height="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>
+
 ### Spare time
 
 How do I spend my free time between coding sessions?
