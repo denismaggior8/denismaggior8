@@ -42,7 +42,11 @@ Main technologies and tools I work on/with:
 
 ### GitHub stats ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>
+
+ |   |    |  |
+ | ----- | ----- | ------- |
+ | <img src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
+
 
 ### Spare time
 
