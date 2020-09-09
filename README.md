@@ -46,10 +46,10 @@ Main technologies and tools I work on/with:
 
 <img width="55%" align="right" height="55%" src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>1</p>
+<p>2</p>
+<p>3</p>
+<p>4</p>
 <p></p>
 <p></p>
 
@@ -71,4 +71,4 @@ I'm joking... Usually I:
 
 ---
 This page has been dynamically created using a GitHub Action ![build](https://img.shields.io/github/workflow/status/denismaggior8/denismaggior8/update)  
-Last update: ⚡Wed Sep  9 13:36:43 UTC 2020⚡
+Last update: ⚡Wed Sep  9 13:30:16 UTC 2020⚡
