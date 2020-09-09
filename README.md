@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 How do I spend my free time between coding sessions?
 
-![T-rex](https://raw.githubusercontent.com/denismaggior8/denismaggior8/master/img/juego-google-chrome-offline.gif)
+![T-rex](https://raw.githubusercontent.com/denismaggior8/denismaggior8/master/img/juego-google-chrome-offline1.gif)
 
 
 
