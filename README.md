@@ -2,7 +2,7 @@
 
 
 Welcome to my GitHub profile page
-<img align="right" src="https://raw.githubusercontent.com/denismaggior8/denismaggior8/master/img/ascii_denis.png"/>
+<img width="30%" height="30%" align="right" src="https://raw.githubusercontent.com/denismaggior8/denismaggior8/master/img/ascii_denis.png"/>
 
 <!--
 **denismaggior8/denismaggior8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
