@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 
 ---
-This page has been dynamically created using a GitHub Action 💪
+This page has been dynamically created using a GitHub Action 💪 
 Last update: ⚡Wed Sep  9 08:50:25 UTC 2020⚡
