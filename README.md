@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 ---
-Last page update: ⚡Wed  9 Sep 2020 10:40:25 CEST⚡
+Last page update: 
