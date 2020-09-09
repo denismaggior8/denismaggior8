@@ -6,6 +6,7 @@ Welcome to my GitHub profile page
 
 
 My name is **Denis Maggiorotto** and I'm a Cloud/DevOps engineer, technology evangelist and keynote speaker.  
+
 I'm from Italy 🇮🇹, living in a small town on the Turin hills (Chieri), I act as CEO and CTO of the company Sunnyvale S.r.l.
 
 ### Social ###
