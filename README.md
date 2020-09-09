@@ -40,12 +40,9 @@ Main technologies and tools I work on/with:
 
 ### GitHub stats ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denismaggior8)](https://github.com/anuraghazra/github-readme-stats)
+<img width="70%" height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismaggior8"/>
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=denismaggior8)](https://github.com/anuraghazra/github-readme-stats))
-
-<img width="40%" height="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>
+<img width="70%" height="70%" align="right" src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>
 
 ### Spare time
 
@@ -65,4 +62,4 @@ I'm joking... Usually I:
 
 ---
 This page has been dynamically created using a GitHub Action ![build](https://img.shields.io/github/workflow/status/denismaggior8/denismaggior8/update)  
-Last update: ⚡Wed Sep  9 13:25:28 UTC 2020⚡
+Last update: ⚡Wed Sep  9 13:23:21 UTC 2020⚡
