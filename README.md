@@ -52,7 +52,7 @@ Main technologies and tools I work on/with:
 
 ### Spare time
 
-How do I spend my free time between coding sessions?
+How do I spend my free time when I'm not in the ☁️?
 
 ![T-rex](https://raw.githubusercontent.com/denismaggior8/denismaggior8/master/img/juego-google-chrome-offline1.gif)
 
@@ -65,6 +65,7 @@ I'm joking... Usually I:
 - 🎮 play videogames (of course) 
 - 📡 operate my amateur radio station (international callsign **IU1DKC**)
 - 🏠 automate my house with sensors and triggers
+- 🚁 fly my drone (licence nr. **ITA-RP-01726eda247f**)
 
 ---
 This page has been dynamically created using a GitHub Action ![build](https://img.shields.io/github/workflow/status/denismaggior8/denismaggior8/update)  
