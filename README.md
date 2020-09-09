@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 
 ---
-Last page update: ⚡Wed Sep  9 08:50:25 UTC 2020⚡
+This page has been dynamically created using a GitHub Action 💪
+Last update: ⚡Wed Sep  9 08:50:25 UTC 2020⚡
