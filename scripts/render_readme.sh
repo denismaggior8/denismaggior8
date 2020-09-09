@@ -6,7 +6,7 @@
 export PAGE_UPDATE_TIMESTAMP="⚡$(date)⚡"
 #cat ../README.md | sed "s/^Last update:.*/Last update: $PAGE_UPDATE_TIMESTAMP/g"
 
-perl -p -i -e "s/^Last page update:.*$/Last page update: $PAGE_UPDATE_TIMESTAMP/g" ../README.md
+perl -p -i -e "s/^Last update:.*$/Last update: $PAGE_UPDATE_TIMESTAMP/g" ../README.md
 #export DYNAMIC_CONTENT="### Dynamic content ###
 #
 #dynamic test <> \" ' ### Start next section ### "
