@@ -20,6 +20,8 @@ Follow me on:
 ![](https://img.shields.io/badge/@sunnyvale__it-informational?style=&logo=Twitter&color=1DA1F2&logoColor=white)
 ![](https://img.shields.io/badge/Denis_Maggiorotto-informational?style=&logo=Strava&&color=orange&logoColor=white)
 ![](https://img.shields.io/badge/denismaggior8-informational?style=&logo=GitHub&&color=black&logoColor=white)
+![](https://img.shields.io/badge/sunnyvale--it-informational?style=&logo=GitHub&&color=black&logoColor=white)
+![](https://img.shields.io/badge/sunnyvale--academy-informational?style=&logo=GitHub&&color=black&logoColor=white)
 
 
 ### Technologies and tools ###
@@ -45,7 +47,7 @@ Main technologies and tools I work on/with:
 
  |   |    |  
  | ----- | ----- | 
- | <img src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   | 
+ | <img src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denismaggior8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   | 
 
 
 ### Spare time
