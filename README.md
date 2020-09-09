@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...  
 -->
 
+How do I spend my free time between coding sessions?
 
+![T-rex](img/juego-google-chrome-offline.gif)
 
 
 
