@@ -1,31 +1,60 @@
-### Hi there 👋
+### Hi there 👋 ###
 
 
 Welcome to my GitHub profile page
-<img width="30%" height="30%" align="right" src="https://raw.githubusercontent.com/denismaggior8/denismaggior8/master/img/ascii_denis.png"/>
+<img width="40%" height="40%" align="right" src="https://raw.githubusercontent.com/denismaggior8/denismaggior8/master/img/ascii_denis.png"/>
 
-<!--
-**denismaggior8/denismaggior8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is **Denis Maggiorotto** and I'm a Cloud/DevOps engineer, technology evangelist and keynote speaker.  
+I'm from Italy 🇮🇹, living in a small town on the Turin hills (Chieri), I act as CEO and CTO of the company Sunnyvale S.r.l.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  
--->
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+### Social ###
+
+![](https://img.shields.io/badge/denismaggiorotto-informational?style=&logo=LinkedIn)
+![](https://img.shields.io/badge/denismaggior8-informational?style=&logo=Twitter&&color=1DA1F2&logoColor=white)
+![](https://img.shields.io/badge/sunnyvaleit-informational?style=&logo=Twitter&color=1DA1F2&logoColor=white)
+![](https://img.shields.io/badge/Denis_Maggiorotto-informational?style=&logo=Strava&&color=orange&logoColor=white)
+
+
+### Technologies and tools ###
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google_Cloud_Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Oracle_Cloud_Platform-informational?style=flat&logo=Oracle&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+
+### GitHub stats ###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denismaggior8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=denismaggior8)](https://github.com/anuraghazra/github-readme-stats))
+
+### Spare time
 
 How do I spend my free time between coding sessions?
 
 ![T-rex](https://raw.githubusercontent.com/denismaggior8/denismaggior8/master/img/juego-google-chrome-offline1.gif)
 
+I'm joking... Usually I: 
 
+- 🚴‍♂️ go cycling 
+- ⛷️ enjoy skiing 
+- 🚶 walk on the hills near my home
+- 🎮 play videogames (of course) 
+- 📡 operate my amateur radio station (international callsign **IU1DKC**)
+- 👩‍👧‍👦 spend time with my family  💖
+- 🏠 automate my house with sensors and triggers
 
 ---
-This page has been dynamically created using a GitHub Action 💪  
-Last update: ⚡Wed Sep  9 11:24:27 UTC 2020⚡
+This page has been dynamically created using a GitHub Action ![build](https://img.shields.io/github/workflow/status/denismaggior8/denismaggior8/update)  
+Last update: ⚡Wed Sep  9 11:24:27 UTC 2020⚡ 
