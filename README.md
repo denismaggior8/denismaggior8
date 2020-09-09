@@ -42,16 +42,7 @@ Main technologies and tools I work on/with:
 
 ### GitHub stats ###
 
-<img width="40%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismaggior8"/>
-
-<img width="55%" align="right" height="55%" src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>
-
-<p>1</p>
-<p>2</p>
-<p>3</p>
-<p>4</p>
-<p></p>
-<p></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>
 
 ### Spare time
 
