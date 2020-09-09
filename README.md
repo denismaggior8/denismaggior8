@@ -11,13 +11,18 @@ I'm from Italy 🇮🇹, living in a small town on the Turin hills (Chieri), I a
 
 ### Social ###
 
+Follow me on:
+
 ![](https://img.shields.io/badge/denismaggiorotto-informational?style=&logo=LinkedIn)
 ![](https://img.shields.io/badge/denismaggior8-informational?style=&logo=Twitter&&color=1DA1F2&logoColor=white)
 ![](https://img.shields.io/badge/sunnyvaleit-informational?style=&logo=Twitter&color=1DA1F2&logoColor=white)
 ![](https://img.shields.io/badge/Denis_Maggiorotto-informational?style=&logo=Strava&&color=orange&logoColor=white)
+![](https://img.shields.io/badge/denismaggior8-informational?style=&logo=GitHub&&color=black&logoColor=white)
 
 
 ### Technologies and tools ###
+
+Main technologies and tools I work on/with:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
