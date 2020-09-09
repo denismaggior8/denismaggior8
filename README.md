@@ -42,7 +42,7 @@ Main technologies and tools I work on/with:
 
 <img width="40%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismaggior8"/>
 
-<img width="40%" height="40%" align="right" src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>
+<img width="40%" height="40%" src="https://github-readme-stats.vercel.app/api?username=denismaggior8"/>
 
 ### Spare time
 
