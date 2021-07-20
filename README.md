@@ -11,6 +11,10 @@ I'm from Italy 🇮🇹, living in a small town on the Turin hills (Chieri), I a
 
 Long time ago, I choosed to be a pirate instead of join the Navy...
 
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=denismaggior8&theme=flat&no-frame=true&margin-w=30" />
+</div>
+
 ### Social ###
 
 Follow me on:
