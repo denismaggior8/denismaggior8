@@ -2,7 +2,7 @@
 
 
 Welcome to my GitHub profile page
-<img width="40%" height="40%" align="right" src="https://raw.githubusercontent.com/denismaggior8/denismaggior8/master/img/ascii_denis.png"/>
+<img width="40%" height="40%" align="right" src="https://raw.githubusercontent.com/denismaggior8/denismaggior8/master/img/ascii_denis.png"/><br/><br/>
 
 
 My name is **Denis Maggiorotto** and I'm a Cloud/DevOps engineer, technology evangelist and keynote speaker.  
